@@ -1,4 +1,46 @@
 /*== MAIN ==*/
 body {
   border-top: 1em solid black;
+  background-color: #e0ffff;
 }
+
+
+h1 {
+  font-family: 'Fontdiner Swanky', cursive;
+  font-size: 60px;
+  color: blue;
+  text-align: center;
+}
+
+.wiki_content {
+  font-family: 'Cinzel', serif;
+  color: black;
+  text-align: center;
+  font-size: 40px;
+}
+
+
+form {
+
+  padding-left: 30px;
+}
+
+.edit {
+
+  text-align: center;
+}
+
+.all_list {
+
+  padding-left: 10px;
+  font-family: 'Fontdiner Swanky', cursive;
+  font-size: 30px;
+}
+
+.list_div {
+
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+

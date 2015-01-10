@@ -1,0 +1,8 @@
+
+<div class="list_div">
+<ul>
+<% @wikis.each do |wiki| %>
+<li class="all_list"><a href="/wiki/<%= wiki.id %>"><%= wiki.title %> </a> </li>
+<% end %>
+</ul>
+</div>
